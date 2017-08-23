@@ -1,0 +1,24 @@
+{
+  "name": "intercom.js",
+  "version": "0.1.4",
+  "description": "A client-side cross-window message broadcast library built on top of the HTML5 localStorage API.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diy/intercom.js.git"
+  },
+  "keywords": [
+    "intercom",
+    "socket.io",
+    "broadcast",
+    "autoresize",
+    "cross-window",
+    "messaging"
+  ],
+  "main": "intercom.js",
+  "author": "DIY Co",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/diy/intercom.js/issues"
+  },
+  "homepage": "https://github.com/diy/intercom.js/"
+}
