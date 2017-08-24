@@ -14,7 +14,7 @@
     "cross-window",
     "messaging"
   ],
-  "main": "intercom.js",
+  "main": "intercom.amd.js",
   "author": "DIY Co",
   "license": "Apache 2.0",
   "bugs": {
